@@ -17,6 +17,7 @@ body{
    background-color:#B6D3EF;
    margin:0;
    padding:0;
+   gap:100px;
 }
 
 .calculator{
@@ -133,7 +134,7 @@ span{
 
 .footer{
     width:100vw;
-    height:110px;
+    height:60px;
     background-color:black;
     display:flex;
     justify-content: center;
