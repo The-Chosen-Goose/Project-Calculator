@@ -17,10 +17,10 @@ body, html  {
 body{
    display:flex;
    flex-direction: column;
-   justify-content: space-between;
    align-items: center;
    height:100vh;
    background-color:#B6D3EF;
+   gap:200px
 }
 
 .calculator{
