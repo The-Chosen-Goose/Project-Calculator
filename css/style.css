@@ -8,6 +8,12 @@
     src: url(fonts/Disolve_regular.ttf);
 }
 
+body, html  {
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+
 body{
    display:flex;
    flex-direction: column;
@@ -15,9 +21,6 @@ body{
    align-items: center;
    height:100vh;
    background-color:#B6D3EF;
-   margin:0;
-   padding:0;
-   gap:100px;
 }
 
 .calculator{
