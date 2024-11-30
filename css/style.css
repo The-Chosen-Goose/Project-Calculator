@@ -138,7 +138,7 @@ span{
 .footer{
     width:100vw;
     height:60px;
-    background-color:black;
+    background-color:#B6D3EF;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -148,7 +148,7 @@ a{
     text-decoration: none;
     font-family:disolve;
     font-size:x-large;
-    color:white;
+    color:black;
     height:60px;
     display:flex;
     justify-content: center;
